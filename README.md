@@ -1,2 +1,6 @@
-# py_machine_learning_projects
-Séries de projetos de Machine Learning com Python
+# Projetos de Machine Learning com Python
+
+
+### Neste repositório compartilho alguns dos meus projetos de Analytics com Machine Learning, utilizando Python. 
+
+
